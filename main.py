@@ -1,4 +1,7 @@
-mport ugit
+# Neues main.py von GitHub
+# 04-OKT-2025
+#
+import ugit
 from machine import Pin
 import time
 
